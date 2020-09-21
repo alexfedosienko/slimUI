@@ -1,0 +1,26 @@
+{
+  "name": "slimui",
+  "version": "1.0.0",
+  "description": "slim UI webkit",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfedosienko/slimUI.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "slimui",
+    "js",
+    "webkit"
+  ],
+  "author": "Alexander Fedosienko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfedosienko/slimUI/issues"
+  },
+  "homepage": "https://github.com/alexfedosienko/slimUI#readme"
+}
